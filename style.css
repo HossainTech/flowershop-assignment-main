@@ -84,6 +84,25 @@ body{
     color: gray;
     font-weight: 700;
 }
- 
 
-
+.featurelink-cont{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #F4F4F4;
+    padding: 10px 20px;
+    align-items: center;
+    margin: 80px 90px;
+}
+.flink-box{
+    padding-top: 20px;
+}
+.flink-box>p{
+    color: gray;
+    font-weight: 700;
+}
+.basic-padding{
+    padding: 80px 90px;
+}
+.basic-margin{
+    margin: 80px 90px;
+}
